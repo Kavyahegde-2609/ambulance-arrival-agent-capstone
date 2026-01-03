@@ -11,7 +11,7 @@ to understand system logic, decision flow, and basic AI-agent concepts.
 - Apply AI concepts at a conceptual level
 
 ## Technologies Used
-- Python / JavaScript (as applicable)
+- Python 
 - AI-assisted logic
 - Simulation concepts
 
