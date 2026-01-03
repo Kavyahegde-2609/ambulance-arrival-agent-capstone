@@ -15,7 +15,7 @@ to understand system logic, decision flow, and basic AI-agent concepts.
 - AI-assisted logic
 - Simulation concepts
 
-## Project Typ
+## Project Type
 Capstone Project for 5 days AI Agent course from kaggle
 
 ## Scope
